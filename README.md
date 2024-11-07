@@ -1,1 +1,1 @@
-# mileston2byParveenMalik
+QuickResume Builder is a simple, web-based tool created by Parveen Malik that allows users to quickly and efficiently create resumes. With sections for personal information, education, experience, and skills, this static HTML form makes it easy to input details and generate a professional-looking resume. Perfect for anyone looking to streamline the resume-building process without complex tools.
